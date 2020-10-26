@@ -1,7 +1,7 @@
 # p0_llocweb
 Creació d'un lloc web i tots els arxius i formats que l'integren
 
-#Continguts
+# Continguts  
 
 * Organitzat un lloc web.
 * Arxius d'imatge, html, css i de fonts
